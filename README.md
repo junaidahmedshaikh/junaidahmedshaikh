@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Junaid Ahmed Shaikh.
-- 👀 I’m interested in Programing.
+- 👀 I’m interested in Development.
 - 🌱 I’m currently learning C
 - 📫 How to reach me on linkedin
 
