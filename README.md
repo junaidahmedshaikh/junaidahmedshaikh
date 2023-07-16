@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Junaid Ahmed Shaikh.
 - 👀 I’m interested in Development.
-- 🌱 I’m currently learning C
+- 🌱 I’m currently learning Javascript
 - 📫 How to reach me on linkedin
 
 
