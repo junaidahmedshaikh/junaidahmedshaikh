@@ -7,22 +7,13 @@ I'm a passionate **developer** who loves transforming ideas into interactive, ef
 
 ## 🧑‍💻 About Me
 
-I’m Junaid Ahmed Shaikh, a dedicated and detail-oriented Frontend Developer with a strong foundation in modern web development technologies. I specialize in building responsive, accessible, and user-centric web applications using JavaScript, React, TailwindCSS, and Material UI.
 
-With a passion for clean code and thoughtful design, I strive to create seamless digital experiences that balance functionality with visual appeal. I’m equally comfortable collaborating with cross-functional teams or taking initiative on solo projects.
-
-Currently, I’m expanding my backend skills using Node.js and deepening my understanding of full-stack development to deliver end-to-end solutions.
-
-
-
----
-
-## 💬 About Me
-
-```js
+```cpp
 const junaid = {
   name: "Junaid Ahmed Shaikh",
   pronouns: "he" | "him",
+  aboutMe: "I'm Junaid Ahmed Shaikh, a passionate Frontend Developer skilled in React, JavaScript, and modern UI frameworks. I focus on building responsive, user-friendly web 
+            applications and continually strive to learn and grow in full-stack development. Outside tech, I enjoy sports, travel, and outdoor adventures."
   techSkills: ["React", "Javascript, Java, "Node.js", "TailwindCSS", "Material UI", "Bootstrap"],
   tools: ["Figma", Redux Toolkit, "Git", Github],
   interests: ["Badminton", "Running", "Traveling", "Cricket", "Games", "Trekking"]
